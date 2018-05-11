@@ -161,4 +161,4 @@ declare module ReactDatetime {
 declare module "react-datetime" {
   var ReactDatetime: ReactDatetime.DatetimeComponent;
   export = ReactDatetime;
-}
+}react-datetime.d.ts
